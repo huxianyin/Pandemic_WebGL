@@ -56,11 +56,11 @@
       }
 
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/Pandemic_Web.loader.js";
+      var loaderUrl = buildUrl + "/Builds.loader.js";
       var config = {
-        dataUrl: buildUrl + "/Pandemic_Web.data",
-        frameworkUrl: buildUrl + "/Pandemic_Web.framework.js",
-        codeUrl: buildUrl + "/Pandemic_Web.wasm",
+        dataUrl: buildUrl + "/Builds.data",
+        frameworkUrl: buildUrl + "/Builds.framework.js",
+        codeUrl: buildUrl + "/Builds.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "heilab.hu",
         productName: "Pandemic",
@@ -85,7 +85,7 @@
         canvas.style.width = "1440px";
         canvas.style.height = "900px";
       }
-      canvas.style.background = "url('" + buildUrl + "/Pandemic_Web.jpg') center / cover";
+      canvas.style.background = "url('" + buildUrl + "/Builds.jpg') center / cover";
       loadingBar.style.display = "block";
 
       var script = document.createElement("script");
