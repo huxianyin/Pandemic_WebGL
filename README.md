@@ -14,6 +14,7 @@ https://user-images.githubusercontent.com/34026599/201135100-1bd60c26-b09e-4ba0-
 
 # Single Player Setting
 - open /Assets/Scenes/single-main.unity
+- You can play 👉👉 [here](https://huxianyin.github.io/Pandemic_WebGL/Builds/index.html) 
 
 
 
