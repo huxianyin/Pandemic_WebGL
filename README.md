@@ -1,7 +1,7 @@
 # Pandemic 🦠 
 A digital version of [Pandemic Board Game](https://en.wikipedia.org/wiki/Pandemic_(board_game)) built with Unity3D. 
 
-https://www.youtube.com/watch?v=XTsLQWou4Qc
+[![A Demo](http://img.youtube.com/vi/XTsLQWou4Qc/0.jpg)](http://www.youtube.com/watch?v=XTsLQWou4Qc "Pandemic")
 
 
 
