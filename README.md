@@ -1,8 +1,7 @@
 # Pandemic 🦠 
 A digital version of [Pandemic Board Game](https://en.wikipedia.org/wiki/Pandemic_(board_game)) built with Unity3D. 
 
-
-https://user-images.githubusercontent.com/34026599/201135100-1bd60c26-b09e-4ba0-97e0-7e915ed139ee.mp4
+https://www.youtube.com/watch?v=XTsLQWou4Qc
 
 
 
@@ -14,7 +13,8 @@ https://user-images.githubusercontent.com/34026599/201135100-1bd60c26-b09e-4ba0-
 
 # Single Player Setting
 - open /Assets/Scenes/single-main.unity
-- You can play 👉👉 [here](https://huxianyin.github.io/Pandemic_WebGL/Builds/index.html) 
+- You can play 👉👉 [here](https://huxianyin.github.io/Pandemic_WebGL/) 
+- Please contact the author for the password : huxy214@gmail.com
 
 
 
